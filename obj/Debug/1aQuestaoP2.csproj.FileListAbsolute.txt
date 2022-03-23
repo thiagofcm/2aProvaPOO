@@ -1,0 +1,10 @@
+C:\Users\thiag\source\repos\1aQuestaoP2\1aQuestaoP2\bin\Debug\1aQuestaoP2.exe.config
+C:\Users\thiag\source\repos\1aQuestaoP2\1aQuestaoP2\bin\Debug\1aQuestaoP2.exe
+C:\Users\thiag\source\repos\1aQuestaoP2\1aQuestaoP2\bin\Debug\1aQuestaoP2.pdb
+C:\Users\thiag\source\repos\1aQuestaoP2\1aQuestaoP2\obj\Debug\1aQuestaoP2.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\1aQuestaoP2\1aQuestaoP2\obj\Debug\_1aQuestaoP2.Form1.resources
+C:\Users\thiag\source\repos\1aQuestaoP2\1aQuestaoP2\obj\Debug\_1aQuestaoP2.Properties.Resources.resources
+C:\Users\thiag\source\repos\1aQuestaoP2\1aQuestaoP2\obj\Debug\1aQuestaoP2.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\1aQuestaoP2\1aQuestaoP2\obj\Debug\1aQuestaoP2.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\1aQuestaoP2\1aQuestaoP2\obj\Debug\1aQuestaoP2.exe
+C:\Users\thiag\source\repos\1aQuestaoP2\1aQuestaoP2\obj\Debug\1aQuestaoP2.pdb
