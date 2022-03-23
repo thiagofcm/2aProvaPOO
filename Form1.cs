@@ -22,7 +22,7 @@ namespace _1aQuestaoP2
         }
 
         private void button4_Click(object sender, EventArgs e) {
-
+            Application.Exit();
         }
 
         private void label1_Click(object sender, EventArgs e) {
@@ -44,7 +44,7 @@ namespace _1aQuestaoP2
         private void button2_Click(object sender, EventArgs e) {
             //ler a txt box codigo
             int codigo = Convert.ToInt32(textBox1.Text);
-            Contato contatofound = new Contato();
+            //Contato contatofound = new Contato();
             //MessageBox.Show(Convert.ToString(codigo));
 
             textBox2.Text = Convert.ToString(l1.buscar(codigo).getNome());
